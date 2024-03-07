@@ -1,0 +1,1 @@
+goto: tps_salah_input_pilpres.txt
