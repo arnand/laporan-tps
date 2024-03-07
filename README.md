@@ -15,6 +15,6 @@ untuk score 9 kebawah artinya ada inputan yg salah.
 
 analisa C1:
 * angka di analisa C1 menunjukan jumlah hari form C1 diupload setelah pencoblosan
-* jika angka minus artinya C1 untuk pemungutan suara ulang/lanjutan belum di upload atau masih menggunakan form C1 sebelumnya.
+* jika angka minus artinya C1 untuk pemungutan suara ulang belum di upload atau masih menggunakan form C1 sebelumnya.
 
 hasil analisa akan terus di update berkala. bagi teman-teman yang mendapatkan informasi ini mohon bantu untuk menyebarkan luaskan.
